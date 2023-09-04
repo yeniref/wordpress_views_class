@@ -38,4 +38,4 @@ class PostViewsCounter {
 // Sınıfı başlat
 PostViewsCounter::init();
 
-
+//Example : get_post_meta($post_id, '_post_views', true);
